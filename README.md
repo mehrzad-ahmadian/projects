@@ -7,12 +7,12 @@ There are many other projects I have done during my work that it was impossible 
 
 
 
-## M.Sc. thesis implementation
+## M.Sc. thesis
 Thesis Title: Interactive query-based summarization of scientific documents considering qualitative feedback [(Code)](https://github.com/mehrzad-ahmadian/projects/tree/master/msc-thesis).
 
 
 
-## B.Sc. project implementation
+## B.Sc. project
 Project title: Designing and implementing an Electronic Examination System [(Code)](https://github.com/mehrzad-ahmadian/projects/tree/master/bsc-project).
 
 
