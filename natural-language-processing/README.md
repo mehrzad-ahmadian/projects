@@ -11,4 +11,5 @@
 * Sentence Similarity (SBERT) [(Code)](https://github.com/mehrzad-ahmadian/projects/tree/master/natural-language-processing/sentence-similarity).
 * Text Summarization (BART) [(Code)](https://github.com/mehrzad-ahmadian/projects/tree/master/natural-language-processing/text-summarization).
 * Query Generation (T5) [(Code)](https://github.com/mehrzad-ahmadian/projects/tree/master/natural-language-processing/query-generation).
-* Machine Translation (Fairseq) [(Code)](https://github.com/mehrzad-ahmadian/projects/tree/master/natural-language-processing/machine-translation).
+* Farsi-English Machine Translation using OpenNMT [(Code)](https://github.com/mehrzad-ahmadian/projects/tree/master/natural-language-processing/machine-translation-opennmt).
+* Farsi-English Machine Translation using FairSeq with Transformer architecture [(Code)](https://github.com/mehrzad-ahmadian/projects/tree/master/natural-language-processing/machine-translation-fairseq).

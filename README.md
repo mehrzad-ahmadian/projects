@@ -44,7 +44,8 @@ Project title: Designing and implementing an Electronic Examination System [(Cod
 * Sentence Similarity (SBERT) [(Code)](https://github.com/mehrzad-ahmadian/projects/tree/master/natural-language-processing/sentence-similarity).
 * Text Summarization (BART) [(Code)](https://github.com/mehrzad-ahmadian/projects/tree/master/natural-language-processing/text-summarization).
 * Query Generation (T5) [(Code)](https://github.com/mehrzad-ahmadian/projects/tree/master/natural-language-processing/query-generation).
-* Machine Translation (Fairseq) [(Code)](https://github.com/mehrzad-ahmadian/projects/tree/master/natural-language-processing/machine-translation).
+* Machine Translation using OpenNMT (Farsi-English) [(Code)](https://github.com/mehrzad-ahmadian/projects/tree/master/natural-language-processing/machine-translation-opennmt).
+* Machine Translation using FairSeq with Transformer architecture (Farsi-English) [(Code)](https://github.com/mehrzad-ahmadian/projects/tree/master/natural-language-processing/machine-translation-fairseq).
 
 
 
